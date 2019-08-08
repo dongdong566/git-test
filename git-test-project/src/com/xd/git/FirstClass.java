@@ -10,6 +10,7 @@ public class FirstClass {
         System.out.println("hello git project");
         System.out.println("hello git project");
         System.out.println("555555555555555555");
+        // hello test
     }
     /**
      *
@@ -18,5 +19,6 @@ public class FirstClass {
         int i = 10;
         i += 5;
         System.out.println(i);
+        System.out.println("hello test");
     }
 }
